@@ -8,6 +8,14 @@
   
     
       <url>
+            <loc>https://imranali.ca/projects/audit-action/</loc>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
             <loc>https://imranali.ca/</loc>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
