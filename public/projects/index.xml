@@ -15,7 +15,7 @@
       
       <guid>https://imranali.ca/projects/audit-action/</guid>
       <description>Why you need an audit action # Nobody likes Auditing. Even the auditing team (if you had a chance to ask them). The reason? Zero tracability of artifacts, attestations can be lost in transit, the beaureaucratic nature of approvals and administration, just to name a few.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://imranali.ca/projects/audit-action/featured.png" />
     </item>
     
   </channel>

@@ -38,11 +38,11 @@ showLikes = false
 [homepage]
   layout = "custom" # valid options: page, profile, hero, card, background, custom
   # homepageImage = "/img/iceland.jpg" # used in: hero, and card
-  showRecent = false
-  showRecentItems = 5
-  showMoreLink = true
+  showRecent = true
+  showRecentItems = 1
+  showMoreLink = false
   showMoreLinkDest = "projects"
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
 
