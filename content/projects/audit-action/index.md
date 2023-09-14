@@ -4,7 +4,7 @@ title: "Enterprise Audit GitHub Action"
 
 ### Why you need an audit action
 
-Nobody likes Auditing. Even the auditing team (if you had a chance to ask them). The reason? Zero tracability of artifacts, attestations can be lost in transit, the beaureaucratic nature of approvals and administration, just to name a few. One of the most common auditting scenarios is to audit repos where devs, ops, admins, and QA all work within the same repository. How can we keep track of changes to access levels within this repo in an automate way? Enter GitHub actions
+Nobody likes Auditing. Even the auditing team (if you had a chance to ask them). The reason? Zero traceability of artifacts, attestations can be lost in transit, the bureaucratic nature of approvals and administration, just to name a few. One of the most common auditing scenarios is to audit repos where devs, ops, admins, and QA all work within the same repository. How can we keep track of changes to access levels within this repo in an automated way? Enter GitHub Actions.
 
 ### Auditing within GitHub
 
@@ -52,7 +52,7 @@ jobs:
           path: ghe-acl*.csv
 {{< /highlight >}}
 
-Feel free to edit other settings such as on triggering the workflow every day on a cron schedule. 
+Feel free to edit other settings such as triggering the workflow every day on a cron schedule. 
 
 {{< alert >}}
 **The token (L17) must have admin access based on the audit use case. If you are auditing at an organization level, the token must have admin access to the organization being audited.**
