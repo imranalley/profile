@@ -14,9 +14,7 @@ cascade:
 ---
 
 {{< lead >}}
-personal projects / thoughts 
+personal projects / musings 
 {{< /lead >}}
-
-Coming Soon ...
 
 ---
