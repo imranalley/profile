@@ -18,5 +18,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://imranali.ca/projects/audit-action/featured.png" />
     </item>
     
+    <item>
+      <title>My Public Speaking Journey</title>
+      <link>https://imranali.ca/projects/public-speaking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imranali.ca/projects/public-speaking/</guid>
+      <description>The Start of a Journey # For the longest time, I had a fear of public speaking. When I was promoted to a Senior DevOps Consultant role, I was thrown into a bunch of calls around cloud architecture and solutions that would fit an entire enterprise of 40,000+ employees.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://imranali.ca/projects/public-speaking/featured.png" />
+    </item>
+    
   </channel>
 </rss>
