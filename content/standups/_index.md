@@ -1,9 +1,10 @@
 ---
 title: "Weekly Standups"
-description: "Standups with myself at the end of every week"
+description: "standups"
 
 showLikes: false
 showViews: false
+showDate: true
 
 cascade:
   showEdit: false

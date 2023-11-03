@@ -39,7 +39,23 @@
     
   
     
+      <url>
+            <loc>https://imranali.ca/standups/ws-1/</loc>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
   
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://imranali.ca/standups/</loc>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
     
   
 </urlset>

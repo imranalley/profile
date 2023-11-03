@@ -1,5 +1,6 @@
 ---
 title: "Scaling DevOps Across an Enterprise"
+date: "Nov 3, 2023"
 ---
 ## What I'm working on
 

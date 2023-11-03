@@ -28,5 +28,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://imranali.ca/projects/public-speaking/featured.png" />
     </item>
     
+    <item>
+      <title>Scaling DevOps Across an Enterprise</title>
+      <link>https://imranali.ca/standups/ws-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imranali.ca/standups/ws-1/</guid>
+      <description> What I&amp;rsquo;m working on # Musings # Things I&amp;rsquo;m excited for next week # </description>
+      
+    </item>
+    
   </channel>
 </rss>
