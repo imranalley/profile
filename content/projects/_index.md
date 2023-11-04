@@ -4,17 +4,19 @@ description: "projects"
 
 showLikes: false
 showViews: false
+showDate: true
 
 cascade:
   showEdit: false
-  showReadingTime: false
+  showReadingTime: true
   showSummary: false
+  showDate: true
   showLikes: false
   showViews: false
 ---
 
 {{< lead >}}
-personal projects / musings 
+personal projects / blogs 
 {{< /lead >}}
 
 ---
