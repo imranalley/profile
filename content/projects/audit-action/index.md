@@ -1,5 +1,6 @@
 ---
 title: "Enterprise Audit GitHub Action"
+date: 2023-09-14
 ---
 
 ### Why you need an audit action

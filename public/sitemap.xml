@@ -34,20 +34,9 @@
     
   
     
-  
-    
-  
-    
-      <url>
-            <loc>https://imranali.ca/projects/audit-action/</loc>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
       <url>
             <loc>https://imranali.ca/projects/public-speaking/</loc>
+            <lastmod>2023-09-18T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
@@ -56,9 +45,23 @@
     
       <url>
             <loc>https://imranali.ca/projects/</loc>
+            <lastmod>2023-09-18T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
+    
+  
+    
+      <url>
+            <loc>https://imranali.ca/projects/audit-action/</loc>
+            <lastmod>2023-09-14T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
     
   
     
