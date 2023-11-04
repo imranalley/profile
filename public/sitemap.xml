@@ -12,8 +12,12 @@
     
   
     
+  
+    
+  
+    
       <url>
-            <loc>https://imranali.ca/standups/ws-1/</loc>
+            <loc>https://imranali.ca/standups/</loc>
             <lastmod>2023-11-03T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -21,12 +25,8 @@
     
   
     
-  
-    
-  
-    
       <url>
-            <loc>https://imranali.ca/standups/</loc>
+            <loc>https://imranali.ca/standups/ws-1/</loc>
             <lastmod>2023-11-03T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
