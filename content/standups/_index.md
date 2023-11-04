@@ -8,14 +8,15 @@ showDate: true
 
 cascade:
   showEdit: false
-  showReadingTime: false
+  showReadingTime: true
+  showDate: true
   showSummary: false
   showLikes: false
   showViews: false
 ---
 
 {{< lead >}}
-musings on work and tech 
+I run this stand-up weekly to keep track of my progress and learnings as I grow 🚀
 {{< /lead >}}
 
 ---
