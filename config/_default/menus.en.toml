@@ -17,6 +17,11 @@
   weight = 15
 
 [[main]]
+  name = "Weekly Standup"
+  pageRef = "standups"
+  weight = 10
+
+[[main]]
   identifier = "linkedin"
   pre = "linkedin"
   url = "https://www.linkedin.com/in/imranali-devops/"
