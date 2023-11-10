@@ -5,7 +5,7 @@
     
       <url>
             <loc>https://imranali.ca/</loc>
-            <lastmod>2023-11-03T00:00:00+00:00</lastmod>
+            <lastmod>2023-11-10T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
@@ -18,7 +18,16 @@
     
       <url>
             <loc>https://imranali.ca/standups/</loc>
-            <lastmod>2023-11-03T00:00:00+00:00</lastmod>
+            <lastmod>2023-11-10T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://imranali.ca/standups/ws-2/</loc>
+            <lastmod>2023-11-10T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
