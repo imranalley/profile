@@ -1,8 +1,11 @@
 ---
-title: "WS-4: DevOps Platform Engineering for GitHub"
+title: "DevOps Platform Engineering for GitHub"
 date: 2023-11-24
 series: ["Weekly Standups"]
 series_order: 4
+description: "Weekly Standup #4"
+summary: "Weekly Standup #4"
+tags: ["weekly standup", "platform engineering"]
 ---
 {{< lead >}}
 Welcome to my weekly standups - a series where I share what I'm working on, thoughts rummaging around in my head, and what I'm excited for next week! 🚀 
