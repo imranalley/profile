@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevOps on Imran Ali</title>
+    <link>https://imranali.ca/tags/devops/</link>
+    <description>Recent content in DevOps on Imran Ali</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Imran Ali</copyright>
+    <lastBuildDate>Fri, 17 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://imranali.ca/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The CIA Triad</title>
+      <link>https://imranali.ca/standups/ws-3/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://imranali.ca/standups/ws-3/</guid>
+      <description>Weekly Standup #3</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://imranali.ca/standups/ws-3/featured.jpeg" />
+    </item>
+    
+  </channel>
+</rss>

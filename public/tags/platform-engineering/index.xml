@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>platform engineering on Imran Ali</title>
+    <link>https://imranali.ca/tags/platform-engineering/</link>
+    <description>Recent content in platform engineering on Imran Ali</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Imran Ali</copyright>
+    <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://imranali.ca/tags/platform-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Legacy Apps and DevOps</title>
+      <link>https://imranali.ca/standups/ws-5/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://imranali.ca/standups/ws-5/</guid>
+      <description>Weekly Standup #5</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://imranali.ca/standups/ws-5/featured.png" />
+    </item>
+    
+    <item>
+      <title>DevOps Platform Engineering for GitHub</title>
+      <link>https://imranali.ca/standups/ws-4/</link>
+      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://imranali.ca/standups/ws-4/</guid>
+      <description>Weekly Standup #4</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://imranali.ca/standups/ws-4/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -10,7 +10,7 @@ cascade:
   showEdit: false
   showReadingTime: true
   showDate: true
-  showSummary: false
+  showSummary: true
   showLikes: false
   showViews: false
 ---

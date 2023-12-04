@@ -7,6 +7,56 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Imran Ali</copyright>
-    <atom:link href="https://imranali.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://imranali.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>platform engineering</title>
+      <link>https://imranali.ca/tags/platform-engineering/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://imranali.ca/tags/platform-engineering/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>weekly standup</title>
+      <link>https://imranali.ca/tags/weekly-standup/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://imranali.ca/tags/weekly-standup/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://imranali.ca/tags/devops/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://imranali.ca/tags/devops/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>playform engineering</title>
+      <link>https://imranali.ca/tags/playform-engineering/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://imranali.ca/tags/playform-engineering/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>audit</title>
+      <link>https://imranali.ca/tags/audit/</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://imranali.ca/tags/audit/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>

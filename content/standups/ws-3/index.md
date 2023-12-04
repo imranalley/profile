@@ -1,8 +1,11 @@
 ---
-title: "WS-3: The CIA Triad"
+title: "The CIA Triad"
 date: 2023-11-17
 series: ["Weekly Standups"]
 series_order: 3
+description: "Weekly Standup #3"
+summary: "Weekly Standup #3"
+tags: ["weekly standup", "DevOps"]
 ---
 {{< lead >}}
 Welcome to my weekly standups - a series where I share what I'm working on, thoughts rummaging around in my head, and what I'm excited for next week! 🚀 

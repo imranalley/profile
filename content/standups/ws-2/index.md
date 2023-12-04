@@ -1,8 +1,11 @@
 ---
-title: "WS-2: Laying the Groundworks"
+title: "Laying the Groundwork"
 date: 2023-11-10
 series: ["Weekly Standups"]
 series_order: 2
+description: "Weekly Standup #2"
+summary: "Weekly Standup #2"
+tags: ["weekly standup", "playform engineering"]
 ---
 {{< lead >}}
 Welcome to my weekly standups - a series where I share what I'm working on, thoughts rummaging around in my head, and what I'm excited for next week! 🚀 
