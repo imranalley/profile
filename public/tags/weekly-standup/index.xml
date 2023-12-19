@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Imran Ali</copyright>
-    <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://imranali.ca/tags/weekly-standup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://imranali.ca/tags/weekly-standup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub Actions, Edge-cases, and Workarounds</title>
+      <link>https://imranali.ca/standups/ws-6/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://imranali.ca/standups/ws-6/</guid>
+      <description>Weekly Standup #6</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://imranali.ca/standups/ws-6/featured.png" />
+    </item>
+    
     <item>
       <title>Legacy Apps and DevOps</title>
       <link>https://imranali.ca/standups/ws-5/</link>

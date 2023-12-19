@@ -3,9 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
+  
+    
       <url>
-            <loc>https://imranali.ca/</loc>
-            <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+            <loc>https://imranali.ca/standups/ws-6/</loc>
+            <lastmod>2023-12-15T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
@@ -13,8 +15,8 @@
   
     
       <url>
-            <loc>https://imranali.ca/standups/ws-5/</loc>
-            <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+            <loc>https://imranali.ca/</loc>
+            <lastmod>2023-12-15T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
@@ -33,6 +35,15 @@
     
       <url>
             <loc>https://imranali.ca/standups/</loc>
+            <lastmod>2023-12-15T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://imranali.ca/standups/ws-5/</loc>
             <lastmod>2023-12-01T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
