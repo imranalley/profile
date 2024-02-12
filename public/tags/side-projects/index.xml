@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>side projects on Imran Ali</title>
+    <link>https://imranali.ca/tags/side-projects/</link>
+    <description>Recent content in side projects on Imran Ali</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Imran Ali</copyright>
+    <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://imranali.ca/tags/side-projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating an NBA Fantasy Scheduler using Chat GPT</title>
+      <link>https://imranali.ca/projects/automated-scheduler/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://imranali.ca/projects/automated-scheduler/</guid>
+      <description>Hello! It’s been a while!
+It’s been a nice break over the holidays and into the new year - but it feels nice to be back into the swing of things and writing again.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://imranali.ca/projects/automated-scheduler/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

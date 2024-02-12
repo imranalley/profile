@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Imran Ali</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 Imran Ali</copyright>
+    <copyright>© 2024 Imran Ali</copyright>
     <lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://imranali.ca/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>github actions</title>
@@ -64,6 +64,26 @@
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://imranali.ca/tags/audit/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Chat GPT</title>
+      <link>https://imranali.ca/tags/chat-gpt/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://imranali.ca/tags/chat-gpt/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>side projects</title>
+      <link>https://imranali.ca/tags/side-projects/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://imranali.ca/tags/side-projects/</guid>
       <description></description>
       
     </item>
