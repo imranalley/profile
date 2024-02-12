@@ -6,8 +6,8 @@
   
     
       <url>
-            <loc>https://imranali.ca/standups/ws-6/</loc>
-            <lastmod>2023-12-15T00:00:00+00:00</lastmod>
+            <loc>https://imranali.ca/projects/automated-scheduler/</loc>
+            <lastmod>2024-02-04T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
@@ -16,12 +16,34 @@
     
       <url>
             <loc>https://imranali.ca/</loc>
-            <lastmod>2023-12-15T00:00:00+00:00</lastmod>
+            <lastmod>2024-02-04T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
     
   
+    
+      <url>
+            <loc>https://imranali.ca/projects/</loc>
+            <lastmod>2024-02-04T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://imranali.ca/standups/ws-6/</loc>
+            <lastmod>2023-12-15T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
     
   
     
@@ -103,33 +125,11 @@
   
     
       <url>
-            <loc>https://imranali.ca/projects/</loc>
-            <lastmod>2023-09-18T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
             <loc>https://imranali.ca/projects/audit-action/</loc>
             <lastmod>2023-09-14T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://imranali.ca/projects/automated-scheduler/</loc>
-            <lastmod>2023-02-04T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
     
   
     

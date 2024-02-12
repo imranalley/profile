@@ -1,6 +1,8 @@
 ---
 title: "My Public Speaking Journey"
 date: 2023-09-18
+description: " "
+summary: " "
 ---
 ## The Start of a Journey
 For the longest time, I had a fear of public speaking. When I was promoted to a Senior DevOps Consultant role, I was thrown into a bunch of calls around cloud architecture and solutions that would fit an entire enterprise of 40,000+ employees. Needless to say, it was absolutely daunting. I was faced with the day-to-day tasks of talking with directors, managers, other senior engineers on my personal viewpoints when it came to engineering solutions. I quickly came to realize that improving my public speaking skills would greatly benefit not just my career but my whole life. Having an idea and then having the ability to communicate the idea to someone else effectively without little to no information loss is a SUPERPOWER and I wanted it.

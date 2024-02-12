@@ -1,8 +1,8 @@
 ---
 title: "Creating an NBA Fantasy Scheduler using Chat GPT"
-date: 2023-02-04
-description: ""
-summary: ""
+date: 2024-02-04
+description: " "
+summary: " "
 tags: ["side projects", "Chat GPT"]
 
 ---

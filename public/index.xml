@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Imran Ali</copyright>
-    <lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://imranali.ca/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://imranali.ca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating an NBA Fantasy Scheduler using Chat GPT</title>
+      <link>https://imranali.ca/projects/automated-scheduler/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://imranali.ca/projects/automated-scheduler/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://imranali.ca/projects/automated-scheduler/featured.png" />
+    </item>
+    
     <item>
       <title>GitHub Actions, Edge-cases, and Workarounds</title>
       <link>https://imranali.ca/standups/ws-6/</link>
@@ -74,7 +84,7 @@
       <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://imranali.ca/projects/public-speaking/</guid>
-      <description>The Start of a Journey # For the longest time, I had a fear of public speaking. When I was promoted to a Senior DevOps Consultant role, I was thrown into a bunch of calls around cloud architecture and solutions that would fit an entire enterprise of 40,000+ employees.</description>
+      <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://imranali.ca/projects/public-speaking/featured.png" />
     </item>
     
@@ -84,19 +94,8 @@
       <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://imranali.ca/projects/audit-action/</guid>
-      <description>Why you need an audit action # Nobody likes Auditing. Even the auditing team (if you had a chance to ask them). The reason? Zero traceability of artifacts, attestations can be lost in transit, the bureaucratic nature of approvals and administration, just to name a few.</description>
+      <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://imranali.ca/projects/audit-action/featured.png" />
-    </item>
-    
-    <item>
-      <title>Creating an NBA Fantasy Scheduler using Chat GPT</title>
-      <link>https://imranali.ca/projects/automated-scheduler/</link>
-      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://imranali.ca/projects/automated-scheduler/</guid>
-      <description>Hello! It’s been a while!
-It’s been a nice break over the holidays and into the new year - but it feels nice to be back into the swing of things and writing again.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://imranali.ca/projects/automated-scheduler/featured.png" />
     </item>
     
   </channel>
