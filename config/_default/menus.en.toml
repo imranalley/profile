@@ -17,7 +17,7 @@
   weight = 15
 
 [[main]]
-  name = "Weekly Standup"
+  name = "Standups"
   pageRef = "standups"
   weight = 10
 
