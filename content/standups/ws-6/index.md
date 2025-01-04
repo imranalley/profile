@@ -1,14 +1,14 @@
 ---
 title: "GitHub Actions, Edge-cases, and Workarounds"
 date: 2023-12-15
-series: ["Weekly Standups"]
+series: ["Standups"]
 series_order: 6
-description: "Weekly Standup #6"
-summary: "Weekly Standup #6"
-tags: ["weekly standup", "platform engineering", "github actions"]
+description: "Standup #6"
+summary: "Standup #6"
+tags: ["standup", "platform engineering", "github actions"]
 ---
 {{< lead >}}
-Welcome to my weekly standups - a series where I share what I'm working on, thoughts rummaging around in my head, and what I'm excited for next week! 🚀 
+Welcome to my standups - a series where I share what I'm working on, thoughts rummaging around in my head, and what I'm excited for! 🚀 
 {{< /lead >}}
 
 ## What I'm working on

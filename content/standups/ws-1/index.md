@@ -1,14 +1,14 @@
 ---
 title: "Scaling DevOps Across an Enterprise"
 date: 2023-11-03
-series: ["Weekly Standups"]
+series: ["Standups"]
 series_order: 1
-description: "Weekly Standup #1"
-summary: "Weekly Standup #1"
-tags: ["weekly standup", "audit"]
+description: "Standup #1"
+summary: "Standup #1"
+tags: ["standup", "audit"]
 ---
 {{< lead >}}
-Welcome to my weekly standups - a series where I share what I'm working on, thoughts rummaging around in my head, and what I'm excited for next week! 🚀 
+Welcome to my standups - a series where I share what I'm working on, thoughts rummaging around in my head, and what I'm excited for! 🚀 
 {{< /lead >}}
 
 ## What I'm working on
