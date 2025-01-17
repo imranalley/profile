@@ -18,6 +18,9 @@ buildFuture = false
 
 googleAnalytics = "G-1QJQN4Y2BW"
 
+[pagination]
+  pagerSize = 100
+
 [imaging]
   anchor = 'Center'
 
@@ -28,7 +31,7 @@ googleAnalytics = "G-1QJQN4Y2BW"
   series = "series"
 
 [sitemap]
-  changefreq = 'always'
+  changefreq = 'daily'
   filename = 'sitemap.xml'
   priority = 0.5
 
