@@ -12,12 +12,12 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["projects", "standups"]
+mainSections = ["projects", "writings"]
 # robots = ""
 
 disableImageOptimization = false
 
-# defaultBackgroundImage = "/img/ocean.jpg"
+defaultBackgroundImage = "/img/background-ani.svg"
 # defaultFeaturedImage = "/img/ocean.jpg"
 
 highlightCurrentMenuArea = true
@@ -26,7 +26,7 @@ smartTOCHideUnfocusedChildren = false
 showViews = false
 showLikes = false
 [header]
-  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
+  layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -36,18 +36,18 @@ showLikes = false
   showScrollToTop = true
 
 [homepage]
-  layout = "custom" # valid options: page, profile, hero, card, background, custom
+  layout = "background" # valid options: page, profile, hero, card, background, custom
   # homepageImage = "/img/iceland.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 3
   showMoreLink = false
-  showMoreLinkDest = "projects"
+  showMoreLinkDest = "writings"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
-  showDate = false
+  showDate = true
   showViews = false
   showLikes = false
   showDateUpdated = false
@@ -85,7 +85,7 @@ showLikes = false
   showLikes = false
   showTableOfContents = true
   showCards = true
-  groupByYear = false
+  groupByYear = true
   cardView = true
   cardViewScreenWidth = false
   constrainItemsWidth = false
