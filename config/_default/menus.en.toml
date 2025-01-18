@@ -17,8 +17,8 @@
   weight = 15
 
 [[main]]
-  name = "Standups"
-  pageRef = "standups"
+  name = "Writings"
+  pageRef = "writings"
   weight = 10
 
 [[main]]

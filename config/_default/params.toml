@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["projects", "standups"]
+mainSections = ["projects", "writings"]
 # robots = ""
 
 disableImageOptimization = false
@@ -41,13 +41,13 @@ showLikes = false
   showRecent = true
   showRecentItems = 3
   showMoreLink = false
-  showMoreLinkDest = "projects"
+  showMoreLinkDest = "writings"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
-  showDate = false
+  showDate = true
   showViews = false
   showLikes = false
   showDateUpdated = false
@@ -85,7 +85,7 @@ showLikes = false
   showLikes = false
   showTableOfContents = true
   showCards = true
-  groupByYear = false
+  groupByYear = true
   cardView = true
   cardViewScreenWidth = false
   constrainItemsWidth = false
