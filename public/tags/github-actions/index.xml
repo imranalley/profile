@@ -6,16 +6,17 @@
     <description>Recent content in github actions on Imran Ali</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Imran Ali</copyright>
+    <copyright>© 2025 Imran Ali</copyright>
     <lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://imranali.ca/tags/github-actions/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>GitHub Actions, Edge-cases, and Workarounds</title>
-      <link>https://imranali.ca/standups/ws-6/</link>
+      <link>https://imranali.ca/writings/ws-6/</link>
       <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://imranali.ca/standups/ws-6/</guid>
-      <description>Weekly Standup #6</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://imranali.ca/standups/ws-6/featured.png" />
+      <guid>https://imranali.ca/writings/ws-6/</guid>
+      <description>Welcome to my standups - a series where I share what I&amp;rsquo;m working on, thoughts rummaging around in my head, and what I&amp;rsquo;m excited for! 🚀 What I&amp;rsquo;m working on # I’ve missed a week to recover from what I think was one of the worst bouts with the flu in my lifetime.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://imranali.ca/writings/ws-6/featured.png" />
     </item>
     
   </channel>

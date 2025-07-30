@@ -6,36 +6,47 @@
     <description>Recent content in platform engineering on Imran Ali</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Imran Ali</copyright>
-    <lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://imranali.ca/tags/platform-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Imran Ali</copyright>
+    <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://imranali.ca/tags/platform-engineering/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Scaling GitHub Enterprise Cloud - Key Learnings from A Platform Engineering Perspective</title>
+      <link>https://imranali.ca/writings/ws-7/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://imranali.ca/writings/ws-7/</guid>
+      <description>Standing up GitHub Enterprise Cloud (GHEC) across a large organization — especially in regulated environments — comes with both opportunities and engineering challenges. Here’s what I learned during our journey 🚀</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://imranali.ca/writings/ws-7/featured.png" />
+    </item>
+    
     <item>
       <title>GitHub Actions, Edge-cases, and Workarounds</title>
-      <link>https://imranali.ca/standups/ws-6/</link>
+      <link>https://imranali.ca/writings/ws-6/</link>
       <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://imranali.ca/standups/ws-6/</guid>
-      <description>Weekly Standup #6</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://imranali.ca/standups/ws-6/featured.png" />
+      <guid>https://imranali.ca/writings/ws-6/</guid>
+      <description>Welcome to my standups - a series where I share what I&amp;rsquo;m working on, thoughts rummaging around in my head, and what I&amp;rsquo;m excited for! 🚀 What I&amp;rsquo;m working on # I’ve missed a week to recover from what I think was one of the worst bouts with the flu in my lifetime.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://imranali.ca/writings/ws-6/featured.png" />
     </item>
     
     <item>
       <title>Legacy Apps and DevOps</title>
-      <link>https://imranali.ca/standups/ws-5/</link>
+      <link>https://imranali.ca/writings/ws-5/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://imranali.ca/standups/ws-5/</guid>
-      <description>Weekly Standup #5</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://imranali.ca/standups/ws-5/featured.png" />
+      <guid>https://imranali.ca/writings/ws-5/</guid>
+      <description>Welcome to my standups - a series where I share what I&amp;rsquo;m working on, thoughts rummaging around in my head, and what I&amp;rsquo;m excited for! 🚀 What I&amp;rsquo;m working on # ‘Legacy’ apps can differ in meaning across various organizations.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://imranali.ca/writings/ws-5/featured.png" />
     </item>
     
     <item>
       <title>DevOps Platform Engineering for GitHub</title>
-      <link>https://imranali.ca/standups/ws-4/</link>
+      <link>https://imranali.ca/writings/ws-4/</link>
       <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://imranali.ca/standups/ws-4/</guid>
-      <description>Weekly Standup #4</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://imranali.ca/standups/ws-4/featured.png" />
+      <guid>https://imranali.ca/writings/ws-4/</guid>
+      <description>Welcome to my standups - a series where I share what I&amp;rsquo;m working on, thoughts rummaging around in my head, and what I&amp;rsquo;m excited for! 🚀 What I&amp;rsquo;m working on # When defining the platform for GitHub Actions, it was first important to differentiate the environment setup vs.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://imranali.ca/writings/ws-4/featured.png" />
     </item>
     
   </channel>
