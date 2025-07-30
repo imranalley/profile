@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>standup on Imran Ali</title>
+    <link>https://imranali.ca/tags/standup/</link>
+    <description>Recent content in standup on Imran Ali</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Imran Ali</copyright>
+    <lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://imranali.ca/tags/standup/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GitHub Actions, Edge-cases, and Workarounds</title>
+      <link>https://imranali.ca/writings/ws-6/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://imranali.ca/writings/ws-6/</guid>
+      <description>Welcome to my standups - a series where I share what I&amp;rsquo;m working on, thoughts rummaging around in my head, and what I&amp;rsquo;m excited for! 🚀 What I&amp;rsquo;m working on # I’ve missed a week to recover from what I think was one of the worst bouts with the flu in my lifetime.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://imranali.ca/writings/ws-6/featured.png" />
+    </item>
+    
+    <item>
+      <title>Legacy Apps and DevOps</title>
+      <link>https://imranali.ca/writings/ws-5/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://imranali.ca/writings/ws-5/</guid>
+      <description>Welcome to my standups - a series where I share what I&amp;rsquo;m working on, thoughts rummaging around in my head, and what I&amp;rsquo;m excited for! 🚀 What I&amp;rsquo;m working on # ‘Legacy’ apps can differ in meaning across various organizations.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://imranali.ca/writings/ws-5/featured.png" />
+    </item>
+    
+    <item>
+      <title>DevOps Platform Engineering for GitHub</title>
+      <link>https://imranali.ca/writings/ws-4/</link>
+      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://imranali.ca/writings/ws-4/</guid>
+      <description>Welcome to my standups - a series where I share what I&amp;rsquo;m working on, thoughts rummaging around in my head, and what I&amp;rsquo;m excited for! 🚀 What I&amp;rsquo;m working on # When defining the platform for GitHub Actions, it was first important to differentiate the environment setup vs.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://imranali.ca/writings/ws-4/featured.png" />
+    </item>
+    
+    <item>
+      <title>The CIA Triad</title>
+      <link>https://imranali.ca/writings/ws-3/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://imranali.ca/writings/ws-3/</guid>
+      <description>Welcome to my standups - a series where I share what I&amp;rsquo;m working on, thoughts rummaging around in my head, and what I&amp;rsquo;m excited for! 🚀 What I&amp;rsquo;m working on # It was a long weekend this week and the main thing thats been on my mind was JBBQ - tried it for the first time with co-workers and sad to say it derailed the rest of my week.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://imranali.ca/writings/ws-3/featured.jpeg" />
+    </item>
+    
+    <item>
+      <title>Laying the Groundwork</title>
+      <link>https://imranali.ca/writings/ws-2/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://imranali.ca/writings/ws-2/</guid>
+      <description>Welcome to my standups - a series where I share what I&amp;rsquo;m working on, thoughts rummaging around in my head, and what I&amp;rsquo;m excited for! 🚀 What I&amp;rsquo;m working on # Last week, I was writing up scripts that would let GitHub Enterprise Site Admins audit entire orgs within their enterprise servers.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://imranali.ca/writings/ws-2/featured.png" />
+    </item>
+    
+    <item>
+      <title>Scaling DevOps Across an Enterprise</title>
+      <link>https://imranali.ca/writings/ws-1/</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://imranali.ca/writings/ws-1/</guid>
+      <description>Welcome to my standups - a series where I share what I&amp;rsquo;m working on, thoughts rummaging around in my head, and what I&amp;rsquo;m excited for! 🚀 What I&amp;rsquo;m working on # Everyone&amp;rsquo;s favourite topic, audit.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://imranali.ca/writings/ws-1/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
